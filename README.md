@@ -42,5 +42,5 @@ pytest test.py
 
 Please let me know if you have any questions and thank you for making and sharing this fun assignment with me!
 
-Kind regards,
+Kind regards, <br>
 Adam 
