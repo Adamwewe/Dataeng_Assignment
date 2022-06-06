@@ -2,7 +2,7 @@
 
 Dear Data Engineering team,
 
-Welcome to the solution repository for the data engineering assignment. Solving this was a lot of fun! However please bear in mind the end result could have been more elaborate if I had more time, as my thesis deadline is close I could only invest so much time into the task meaning only rudimentary tests were performed, I did however comment my code on where things could be improved from a computational cost and flexibility perspective. 
+Welcome to the solution repository for the data engineering assignment. Solving this was a lot of fun! However please bear in mind the end result could have been more elaborate if I had more time, as my thesis deadline is close I could only invest so much time into the task. Because of the time restriction, I could only perform rudimentary tests, I did however comment my code on where things could be improved from a computational cost and flexibility perspective. Additionally, the query processing time was very slow, I wanted to create an index in the original .sql file however I was unsure if I was allowed to change the files I was supplied with.   
 
 # Contents
 
