@@ -2,11 +2,11 @@
 
 Dear Data Engineering team,
 
-Welcome to the solution repository for the data engineering assignment. Solving this was a lot of fun! However please bear in mind the end result could have been more elaborate if I had more time, as my thesis deadline is close I could only invest so much time into the task. Because of the time restriction, I could only perform rudimentary tests, I did however comment my code on where things could be improved from a computational cost and flexibility perspective. Additionally, the query processing time was very slow, I wanted to create an index in the original .sql file however I was unsure if I was allowed to change the files I was supplied with.   
+Welcome to the solution repository for the data engineering assignment. Solving this was a lot of fun! However please bear in mind that the end result could have been more elaborate if I had more time, as my thesis deadline is close I could only invest so much time into the task. Because of the time restriction, I could only perform rudimentary tests, I did however comment my code on where things could be improved from a computational cost and flexibility perspective. Additionally, the query processing time was very slow, I wanted to create an index in the original .sql file however, I was unsure if I was allowed to change the files I was supplied with.   
 
 # Contents
 
-You can find an overview of code base below:
+You can find an overview of the code base below:
 
 <p> - <b> cred (fodler): </b> contains .env files to be used for parsing login credentials (currently only containing a single .env file (pw.env))
 <p> - <b> container_builder (.sh file): </b> bash helper used to spin up container and install required python libraries (bear in mind pip might not be supported in your linux release, in that case please run the: `sudo easy_install pip` command)
